@@ -1,0 +1,13 @@
+INPUT(
+./debug\Bricks.o
+./debug\Mythread.o
+./debug\audiothread.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\prewindow.o
+./debug\qrc_sources.o
+./debug\moc_Mythread.o
+./debug\moc_audiothread.o
+./debug\moc_mainwindow.o
+./debug\moc_prewindow.o
+);

@@ -1,0 +1,13 @@
+INPUT(
+./release\Bricks.o
+./release\Mythread.o
+./release\audiothread.o
+./release\main.o
+./release\mainwindow.o
+./release\prewindow.o
+./release\qrc_sources.o
+./release\moc_Mythread.o
+./release\moc_audiothread.o
+./release\moc_mainwindow.o
+./release\moc_prewindow.o
+);

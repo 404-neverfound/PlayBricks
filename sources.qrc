@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/sources">
+        <file>爆炸.png</file>
+        <file>爆炸.wav</file>
+        <file>背景.jpg</file>
+        <file>穿透.png</file>
+        <file>盾牌.png</file>
+        <file>关卡0.txt</file>
+        <file>关卡1.txt</file>
+        <file>关卡2.txt</file>
+        <file>关卡3.txt</file>
+        <file>关卡4.txt</file>
+        <file>关卡5.txt</file>
+        <file>关卡6.txt</file>
+        <file>关卡7.txt</file>
+        <file>关卡8.txt</file>
+        <file>关卡9.txt</file>
+        <file>关卡50.txt</file>
+        <file>关卡51.txt</file>
+        <file>计分板.png</file>
+        <file>碰撞.wav</file>
+        <file>球.png</file>
+        <file>石头.wav</file>
+        <file>石头1.png</file>
+        <file>石头2.png</file>
+        <file>石头3.png</file>
+        <file>石头4.png</file>
+        <file>石头5.png</file>
+        <file>时停.png</file>
+        <file>时停.wav</file>
+        <file>炸弹.png</file>
+        <file>钻石.png</file>
+        <file>钻石.wav</file>
+        <file>关卡10.txt</file>
+    </qresource>
+</RCC>
